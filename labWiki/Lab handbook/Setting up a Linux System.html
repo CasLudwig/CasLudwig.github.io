@@ -1,0 +1,155 @@
+<!-- page=Setting up a Linux System -->
+<!-- uid=b5df692d27eebd22ac7457f83588b6d9cb80d336 -->
+<!-- time=1521565168 -->
+<!-- ip=137.222.114.247 -->
+<!-- content-type=text/html -->
+<!-- name=Casimir Ludwig -->
+<!-- email=c.ludwig@bristol.ac.uk -->
+<p><span style="font-size:115%;font-family:Arial;">These notes are largely for my (our) own reference, but they may be useful to other people.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-size:115%;font-family:Arial;">System specifications</span></h2>
+<p>&nbsp;</p>
+<ul><li>
+<p><span style="font-size:115%;font-family:Arial;">Intel Core 2Quad CPU Q9500 @ 2.83 GHz x 4.&nbsp;</span><span style="font-family:Arial;font-size:115%;">&nbsp;</span></p>
+</li>
+<li>
+<p><span style="font-size:115%;font-family:Arial;">4 Gb RAM.</span><span style="font-family:Arial;font-size:115%;">&nbsp;</span></p>
+</li>
+<li>
+<p><span style="font-size:115%;font-family:Arial;">NVIDIA GeForce GT430 1 Gb graphics card.</span><span style="font-family:Arial;font-size:115%;">&nbsp;</span></p>
+</li>
+<li>
+<p><span style="line-height:1.2em;font-size:115%;font-family:Arial;">Linux Mint 18 Sarah (based on Ubuntu 16.04)</span></p>
+</li>
+<li>
+<p><span style="line-height:1.2em;font-size:115%;font-family:Arial;">Matlab R2017b</span></p>
+</li>
+</ul><p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2><span style="font-family:Arial;font-size:115%;">OS</span></h2>
+<p>&nbsp;</p>
+<ul><li>
+<p><span style="font-family:Arial;font-size:115%;">Install Linux Mint from cd. I'm using Linux Mint 18 "Sarah" - this seems to be based on Ubuntu 16.04.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Edit connections</span></p>
+</li>
+<ul><li>
+<p><span style="font-family:Arial;font-size:115%;">Wired connection 1 (to the world): check whiteboard in lab.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Wired connection 2 (to operator PC): check whiteboard in lab.</span></p>
+</li>
+</ul><li>
+<p><span style="font-family:Arial;font-size:115%;">Check the driver manager and adopt the proprietary driver for your graphics card.</span></p>
+</li>
+</ul><h1>&nbsp;</h1>
+<h2><span style="font-family:Arial;font-size:115%;">Matlab</span></h2>
+<p>&nbsp;</p>
+<ul><li>
+<p><span style="font-family:Arial;font-size:115%;">Download Matlab from Mathworks website.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Extract the downloaded files.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Open terminal, navigate to the folder that contains the extracted files and run sudo ./install</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">The installer will ask for your Mathworks account log-in details.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">You will need to activate Matlab, but the installer will guide you through this.</span></p>
+</li>
+</ul><h1>&nbsp;</h1>
+<h2><span style="font-family:Arial;font-size:115%;">PTB</span></h2>
+<p>&nbsp;</p>
+<ul><li>
+<p><span style="font-family:Arial;font-size:115%;">Follow instructions from the PTB website (choose neurodebian installation).</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Had to add the ptb path manually (having started matlab as sudo). I remember not having to do this in the past. Who knows...</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Run PsychLinuxConfiguration.</span></p>
+</li>
+</ul><h1>&nbsp;</h1>
+<h2><span style="font-family:Arial;font-size:115%;">ViewPixx</span></h2>
+<p>&nbsp;</p>
+<ul><li>
+<p><span style="font-family:Arial;font-size:115%;">Grab 'Software Tools for MAC' folder from the ViewPixx software cd and put it somewhere temporarily (e.g. desktop).</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Open the folder.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Using sudo cp -avr, copy the VPixx_Software_Tools to /usr/share/.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Copy (as sudo) 'Datapixx.mexa64' from the 'VPixx_Software_Tools/DatapixxToolbox_trunk/DatapixxToolbox/mexdev/build/matlab/linux64' folder to 'psychtoolbox-3/PsychHardware/DatapixxToolbox/DatapixxBasic'.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Open matlab as sudo.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">In Matlab, navigate to usr/share/VPixx_Software_Tools/DatapixxToolbox_trunk/DatapixxToolbox/DatapixxDemos. It is useful to run DatapixxM16Demo first. On my system, this then tells me to run 'BitsPlusImagingPipelineTest(0);' once. This script basically tries to figure out the configuration of the DataPixx for your specific combination of graphics card, graphics driver and ViewPixx monitor.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Next, run 'BitsPlusIdentityClutTest;'. This did not work initially, so I called it again as 'BitsPlusIdentityClutTest ([],1);'. The second argument does some additional tests for the DataPixx.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">With these last two steps in Matlab, make sure you read the output carefully!</span></p>
+</li>
+</ul><h1>&nbsp;</h1>
+<h2><span style="font-family:Arial;font-size:115%;">Eyelink libraries</span></h2>
+<p>&nbsp;</p>
+<ul><li>
+<p><span style="font-family:Arial;font-size:115%;">Instructions for installing the relevant Eyelink libraries can be found here: </span><a href="https://www.sr-support.com/forum/downloads/eyelink-display-software/46-eyelink-developers-kit-for-linux-linux-display-software?16-Linux-Display-Software-Package="><span style="font-family:Arial;font-size:115%;">https://www.sr-support.com/forum/downloads/eyelink-display-software/46-eyelink-developers-kit-for-linux-linux-display-software?16-Linux-Display-Software-Package=</span></a></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Test with one of the demos (e.g. /usr/share/EyeLink/SampleExperiments/sdl/gcwindow/; sudo ./gcwindow).</span></p>
+</li>
+</ul><h1>&nbsp;</h1>
+<h2><span style="font-family:Arial;font-size:115%;">PsychoPy</span></h2>
+<p>&nbsp;</p>
+<ul><li>
+<p><span style="font-family:Arial;font-size:115%;">The instructions on the PsychoPy website were not very helpful (you <em>should</em> be able to get psychopy through neurodebian by simply calling 'sudo apt-get install psychopy'). However, there seemed to be lots of missing packages and I just couldn't get it to work. In the end, I found this blog post very useful: </span><a href="https://www.marsja.se/how-to-install-pyschopy-on-linux-mint-debian-edition/."><span style="font-family:Arial;font-size:115%;">https://www.marsja.se/how-to-install-pyschopy-on-linux-mint-debian-edition/.</span></a><span style="font-family:Arial;font-size:115%;"> I will reiterate the steps here, as I've had to change them slightly (they may be somewhat out of date).</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">The assumption is that you have already got access to the appropriate neurodebian repos, but if not, go to the neurodebian website, choose the software icon at the top. Now go to the 'psychophysics' software link. Scroll down to 'psychopy' and open. Here you can choose the server from which you want to install. Simply copy these commands and execute. Follow this with sudo apt-get update.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Next:</span></p>
+</li>
+<ul><li>
+<p><span style="font-family:Arial;font-size:115%;">sudo apt-get install psychopy python-wxgtk3.0 python-yaml python-psutil</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">sudo apt-get install python-tables python-yaml python-pyo python-pygame python-pandas (the last one was critical in the end!)</span></p>
+</li>
+</ul><li>
+<p><span style="font-family:Arial;font-size:115%;">Download AVbin: </span><a href="http://avbin.github.io/AVbin/Download.html"><span style="font-family:Arial;font-size:115%;">http://avbin.github.io/AVbin/Download.html</span></a><span style="font-family:Arial;font-size:115%;"> and navigate to the folder where you have it stored. Call: sudo sh ./install-avbin-linux-x86-64-v10 (you may need to adjust the version number in the future).</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Now PsychoPy is running at least, but I still couldn't get the most basic demo ('Hello World') to work. It was missing a module 'json_tricks'. I downloaded this from: </span><a href="https://pypi.python.org/pypi/json_tricks."><span style="font-family:Arial;font-size:115%;">https://pypi.python.org/pypi/json_tricks.</span></a><span style="font-family:Arial;font-size:115%;"> Unzip the file and extract to a preferred directory (I've created a folder for 'External Modules' in /home/el/Documents/PsychoPy/). Next, open up PsychoPy and go to File-Preferences. Add the path '/home/el/Documents/PsychoPy/ExternModules/json_tricks-3.11.2/' to the 'paths' field in the 'General' tab.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Note that the demo only runs properly when starting PsychoPy as sudo.</span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;font-size:115%;">Further packages were needed for a more complex/complete experiment that included eye tracking.</span></p>
+</li>
+<ul><li>
+<p><span style="font-family:Arial;"><span style="font-size:14.95px;">ioHub dependencies: sudo python -m pip install: psutil, msgpack, greenlet, gevent, numexpr, pytables, pyYAML, python-xlib.</span></span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;"><span style="font-size:14.95px;">more useful packages for ioHub: sudo python -m pip install pyserial, pyparallel, egi, iolabs, pyxid, xlrd.</span></span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;"><span style="font-size:14.95px;">PyGaze dependencies: sudo apt-get install python-numpy, python-scipy, python-matplotlib, python-imaging, python-pygame, psychopy, python-pyglet.</span></span></p>
+</li>
+<li>
+<p><span style="font-family:Arial;"><span style="font-size:14.95px;">Disable the 'pyo' audio device in the PsychoPy preferences, and specify ['pygame','pysoundcard'].</span></span></p>
+</li>
+</ul></ul>
+<!-- pbraw=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 -->
