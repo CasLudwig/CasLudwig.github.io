@@ -1,4 +1,4 @@
-- [Lab wiki](/labWiki/FrontPage.html)
+- [Lab wiki](/wiki)
 - [CV](CV.pdf)
 - [OSF projects](https://osf.io/5awcm/)
 - [Publications (Google Scholar)](https://scholar.google.com/citations?user=zSgrHdsAAAAJ&hl=en)
