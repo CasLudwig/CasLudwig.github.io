@@ -12,8 +12,8 @@ picture: assets/images/ProfPic.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-cv: true
-resume-external: false
+resume: true
+resume-external: true
 resume-source: assets/docs/CV.pdf
 
 url: https://CasLudwig.github.io
