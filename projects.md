@@ -3,11 +3,11 @@ title: Projects
 layout: page
 ---
 
-Check out the (Open Science Framework)[https://osf.io/5awcm/] for an overview of all public projects, preregistrations and pre-prints.
+Check out the [Open Science Framework](https://osf.io/5awcm/) for an overview of all public projects, preregistrations and pre-prints.
 
-(Google Scholar profile)[http://scholar.google.com/citations?user=https://scholar.google.co.uk/citations?user=kyGMxeQAAAAJ&hl=en]
+[Google Scholar profile](http://scholar.google.com/citations?user=https://scholar.google.co.uk/citations?user=kyGMxeQAAAAJ&hl=en)
 
-Some (old) code on (Github)[https://github.com/CasLudwig]
+Some (old) code on [Github](https://github.com/CasLudwig)
 
 ## Current projects
 
