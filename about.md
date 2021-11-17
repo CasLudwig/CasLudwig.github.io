@@ -1,5 +1,5 @@
 ---
-title: Lab
+title: About
 layout: page
 ---
 
