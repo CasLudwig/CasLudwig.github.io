@@ -9,6 +9,8 @@ Check out the [Open Science Framework](https://osf.io/5awcm/) for an overview of
 
 Some (old) code on [Github](https://github.com/CasLudwig)
 
+[Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io/wiki)
+
 ## Some current projects
 
 - Likelihood-free dynamical models of sequential fixation control (Leverhulme-funded).
