@@ -9,7 +9,7 @@ Check out the [Open Science Framework](https://osf.io/5awcm/) for an overview of
 
 Some (old) code on [Github](https://github.com/CasLudwig)
 
-## Current projects
+## Some current projects
 
 - Likelihood-free dynamical models of sequential fixation control (Leverhulme-funded).
 - Model-based analysis of post-natal learning and decision making (MHINT, ERC-funded).
