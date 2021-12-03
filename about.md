@@ -9,7 +9,7 @@ Our prime interest is in the sampling and use of visual information in the contr
 
 - Cas Ludwig, Reader (Associate Prof) in Experimental Psychology
 - Will Chapman, PhD
-- Ilaria Constantini, PhD (co-supervisor with [Rebecca Pearson](https://www.mmu.ac.uk/hpsc/our-staff/browse/faculty/profile/index.php?id=5351){:target="_blank" rel="noopener"})
+- Ilaria Constantini, PhD (co-supervisor with [Rebecca Pearson](https://www.mmu.ac.uk/hpsc/our-staff/browse/faculty/profile/index.php?id=5351){:target="_blank"})
 - Veronika Hadjipanayi, PhD (co-supervisor with [Chris Kent](https://www.bristol.ac.uk/people/person/Chris-Kent-8f9f61be-af53-498d-98dd-85984636e0fc/){:target="_blank" rel="noopener"})
 - Qing Han, PhD
 
