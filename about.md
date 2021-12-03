@@ -10,7 +10,7 @@ Our prime interest is in the sampling and use of visual information in the contr
 - Cas Ludwig, Reader (Associate Prof) in Experimental Psychology
 - Will Chapman, PhD
 - Ilaria Constantini, PhD (co-supervisor with [Rebecca Pearson](https://www.mmu.ac.uk/hpsc/our-staff/browse/faculty/profile/index.php?id=5351){:target="_blank"})
-- Veronika Hadjipanayi, PhD (co-supervisor with [Chris Kent](https://www.bristol.ac.uk/people/person/Chris-Kent-8f9f61be-af53-498d-98dd-85984636e0fc/){:target="_blank" rel="noopener"})
+- Veronika Hadjipanayi, PhD (co-supervisor with [Chris Kent](https://www.bristol.ac.uk/people/person/Chris-Kent-8f9f61be-af53-498d-98dd-85984636e0fc/){:target="_blank"})
 - Qing Han, PhD
 
 ### Alumni
@@ -18,17 +18,17 @@ Our prime interest is in the sampling and use of visual information in the contr
 - Rhys Davies
 - Lucy Ellis
 - David Evens
-- [Tom Hardwicke](https://tomhardwicke.netlify.app/){:target="_blank" rel="noopener"}
-- [Alice Mason](https://alicemason.github.io/){:target="_blank" rel="noopener"}
-- [Gaurav Malhotra](https://research-information.bris.ac.uk/en/persons/gaurav-malhotra){:target="_blank" rel="noopener"}
-- [Adam Ranson](https://www.ransonlab.net/home){:target="_blank" rel="noopener"}
+- [Tom Hardwicke](https://tomhardwicke.netlify.app/){:target="_blank"}
+- [Alice Mason](https://alicemason.github.io/){:target="_blank"}
+- [Gaurav Malhotra](https://research-information.bris.ac.uk/en/persons/gaurav-malhotra){:target="_blank"}
+- [Adam Ranson](https://www.ransonlab.net/home){:target="_blank"}
 - David Redmill
 - Mark Smith
-- [Erik Stuchl&yacute;](https://www.psy.uni-hamburg.de/en/arbeitsbereiche/allgemeine-psychologie/personen/erik-stuchly.html){:target="_blank" rel="noopener"}
-- [Brian Sullivan](https://visionresearchblog.wordpress.com/){:target="_blank" rel="noopener"}
+- [Erik Stuchl&yacute;](https://www.psy.uni-hamburg.de/en/arbeitsbereiche/allgemeine-psychologie/personen/erik-stuchly.html){:target="_blank"}
+- [Brian Sullivan](https://visionresearchblog.wordpress.com/){:target="_blank"}
 
 ### Visitors
 
-- [Jeff Orchard](https://cs.uwaterloo.ca/~jorchard/){:target="_blank" rel="noopener"}
-- [Guillermo Solovey](https://gsolovey.netlify.app/){:target="_blank" rel="noopener"}
-- [Emma Stewart](https://emmaemstewart.com/){:target="_blank" rel="noopener"}
+- [Jeff Orchard](https://cs.uwaterloo.ca/~jorchard/){:target="_blank"}
+- [Guillermo Solovey](https://gsolovey.netlify.app/){:target="_blank"}
+- [Emma Stewart](https://emmaemstewart.com/){:target="_blank"}
