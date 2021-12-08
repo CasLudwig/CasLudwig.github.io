@@ -18,17 +18,17 @@ Our prime interest is in the sampling and use of visual information in the contr
 - Rhys Davies (post-doc)
 - Lucy Ellis (graduate RA)
 - David Evens (graduate RA, PhD)
-- [Tom Hardwicke](https://tomhardwicke.netlify.app/){:target="_blank"} (placement student)
-- [Alice Mason](https://alicemason.github.io/){:target="_blank"} (PhD)
-- [Gaurav Malhotra](https://research-information.bris.ac.uk/en/persons/gaurav-malhotra){:target="_blank"} (post-doc)
-- [Adam Ranson](https://www.ransonlab.net/home){:target="_blank"} (graduate RA)
+- [Tom Hardwicke](https://tomhardwicke.netlify.app/){:target="_blank"} (placement student; University of Amsterdam)
+- [Alice Mason](https://alicemason.github.io/){:target="_blank"} (PhD; currently at the University of Warwick)
+- [Gaurav Malhotra](https://research-information.bris.ac.uk/en/persons/gaurav-malhotra){:target="_blank"} (post-doc; University of Bristol)
+- [Adam Ranson](https://www.ransonlab.net/home){:target="_blank"} (graduate RA; Institute of Neurosciences at the Autonomous University of Barcelona)
 - David Redmill (Research Technician)
 - Mark Smith (placement student)
-- [Erik Stuchl&yacute;](https://www.psy.uni-hamburg.de/en/arbeitsbereiche/allgemeine-psychologie/personen/erik-stuchly.html){:target="_blank"} (MScR)
-- [Brian Sullivan](https://visionresearchblog.wordpress.com/){:target="_blank"} (post-doc)
+- [Erik Stuchl&yacute;](https://www.psy.uni-hamburg.de/en/arbeitsbereiche/allgemeine-psychologie/personen/erik-stuchly.html){:target="_blank"} (MScR; University of Hamburg)
+- [Brian Sullivan](https://visionresearchblog.wordpress.com/){:target="_blank"} (post-doc; University of Bristol)
 
 ### Visitors
 
-- [Jeff Orchard](https://cs.uwaterloo.ca/~jorchard/){:target="_blank"}
-- [Guillermo Solovey](https://gsolovey.netlify.app/){:target="_blank"}
-- [Emma Stewart](https://emmaemstewart.com/){:target="_blank"}
+- [Jeff Orchard](https://cs.uwaterloo.ca/~jorchard/){:target="_blank"} (University of Waterloo)
+- [Guillermo Solovey](https://gsolovey.netlify.app/){:target="_blank"} (University of Buenos Aires)
+- [Emma Stewart](https://emmaemstewart.com/){:target="_blank"} (University of Giessen)
