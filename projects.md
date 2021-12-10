@@ -4,8 +4,10 @@ layout: page
 ---
 
 
-| [Open Science Framework](https://osf.io/5awcm/){:target="_blank"} | <span style="color:white"> &nbsp; </span> | [Orcid](https://orcid.org/0000-0003-4656-0751){:target="_blank"} | <span style="color:white"> &nbsp; </span> | [Google Scholar](http://scholar.google.com/citations?user=https://scholar.google.co.uk/citations?user=kyGMxeQAAAAJ&hl=en){:target="_blank"} |
-|:---:|:---:|:---:|:---:|:---:|
+Find us:
+- [Open Science Framework](https://osf.io/5awcm/){:target="_blank"} 
+- [Orcid](https://orcid.org/0000-0003-4656-0751){:target="_blank"}
+- [Google Scholar](http://scholar.google.com/citations?user=https://scholar.google.co.uk/citations?user=kyGMxeQAAAAJ&hl=en){:target="_blank"}
 
 
 ## Some current projects
