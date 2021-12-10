@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-Find us:
+Find me:
 - [Open Science Framework](https://osf.io/5awcm/){:target="_blank"} 
 - [Orcid](https://orcid.org/0000-0003-4656-0751){:target="_blank"}
 - [Google Scholar](http://scholar.google.com/citations?user=https://scholar.google.co.uk/citations?user=kyGMxeQAAAAJ&hl=en){:target="_blank"}
