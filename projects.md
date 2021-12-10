@@ -12,4 +12,4 @@ layout: page
 - Decision avoidance and heuristics.
 
 
-| <span style="color:white"> filler </span> | [Open Science Framework](https://osf.io/5awcm/){:target="_blank"} | <span style="color:white"> filler </span> | [Orcid](https://orcid.org/0000-0003-4656-0751){:target="_blank"} | <span style="color:white"> filler </span> | [Google Scholar](http://scholar.google.com/citations?user=https://scholar.google.co.uk/citations?user=kyGMxeQAAAAJ&hl=en){:target="_blank"} | 
+| <span style="color:white"> filler </span> | <span style="color:white"> filler </span> | <span style="color:white"> filler </span> | <span style="color:white"> filler </span> | [Open Science Framework](https://osf.io/5awcm/){:target="_blank"} | <span style="color:white"> filler </span> | [Orcid](https://orcid.org/0000-0003-4656-0751){:target="_blank"} | <span style="color:white"> filler </span> | [Google Scholar](http://scholar.google.com/citations?user=https://scholar.google.co.uk/citations?user=kyGMxeQAAAAJ&hl=en){:target="_blank"} | 
