@@ -9,8 +9,7 @@ We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io
 
 ## People
 
-### Current
-
+- Casimir Ludwig, Reader (Associate Professor) in Experimental Psychology
 - Will Chapman, PhD
 - Ilaria Constantini, PhD (co-supervisor with [Rebecca Pearson](https://www.mmu.ac.uk/hpsc/our-staff/browse/faculty/profile/index.php?id=5351){:target="_blank"})
 - Veronika Hadjipanayi, PhD (co-supervisor with [Chris Kent](https://www.bristol.ac.uk/people/person/Chris-Kent-8f9f61be-af53-498d-98dd-85984636e0fc/){:target="_blank"})
