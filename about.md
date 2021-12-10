@@ -5,6 +5,8 @@ layout: page
 
 Our prime interest is in the sampling and use of visual information in the control of action, and decision making more generally. In particular, we are interested in the decision processes that govern (i) how we actively sample information from the environment by shifting gaze, (ii) how the sampled information is used to draw inferences about the state of the environment, and (iii) how these inferences guide our motor behaviour or other kinds of decisions. The methods we use include eye tracking, visual psychophysics, motion capture, and computational modelling.
 
+We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io/wiki){:target="_blank"} with some useful info about the lab set up, operating equipment and analysing data. Likely to be out of date, but still quite useful for students doing eye tracking projects.
+
 ## People
 
 - Cas Ludwig, Reader (Associate Prof) in Experimental Psychology
