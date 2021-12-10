@@ -5,7 +5,7 @@ layout: page
 
 Our prime interest is in the sampling and use of visual information in the control of action, and decision making more generally. In particular, we are interested in the decision processes that govern (i) how we actively sample information from the environment by shifting gaze, (ii) how the sampled information is used to draw inferences about the state of the environment, and (iii) how these inferences guide our motor behaviour or other kinds of decisions. The methods we use include eye tracking, visual psychophysics, motion capture, and computational modelling.
 
-We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io/wiki){:target="_blank"} with some useful info about the lab set up, operating equipment and analysing data. Likely to be out of date, but still quite useful for students doing eye tracking projects.
+We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io/wiki){:target="_blank"} with some useful info about the lab set up, operating equipment and analysing data. At any one point the wiki is most likely out of date, but still quite useful for students doing eye tracking projects.
 
 ## People
 
@@ -21,7 +21,7 @@ We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io
 - Lucy Ellis (graduate RA)
 - David Evens (graduate RA, PhD)
 - [Tom Hardwicke](https://tomhardwicke.netlify.app/){:target="_blank"} (placement student; University of Amsterdam)
-- [Alice Mason](https://alicemason.github.io/){:target="_blank"} (PhD; currently at the University of Warwick)
+- [Alice Mason](https://alicemason.github.io/){:target="_blank"} (PhD; University of Warwick)
 - [Gaurav Malhotra](https://research-information.bris.ac.uk/en/persons/gaurav-malhotra){:target="_blank"} (post-doc; University of Bristol)
 - [Adam Ranson](https://www.ransonlab.net/home){:target="_blank"} (graduate RA; Institute of Neurosciences at the Autonomous University of Barcelona)
 - David Redmill (Research Technician)
