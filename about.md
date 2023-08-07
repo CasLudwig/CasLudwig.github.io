@@ -20,7 +20,7 @@ We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io
 - Lucy Ellis (graduate RA)
 - David Evens (graduate RA, PhD)
 - Veronika Hadjipanayi (PhD)
-- [Qing Han](https://www.spi.ox.ac.uk/people/qing-han) {:target="_blank"} (PhD)
+- [Qing Han](https://www.spi.ox.ac.uk/people/qing-han){:target="_blank"} (PhD)
 - [Tom Hardwicke](https://tomhardwicke.netlify.app/){:target="_blank"} (placement student)
 - [Alice Mason](https://alicemason.github.io/){:target="_blank"} (PhD)
 - [Gaurav Malhotra](https://research-information.bris.ac.uk/en/persons/gaurav-malhotra){:target="_blank"} (post-doc)
