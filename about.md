@@ -7,15 +7,23 @@ Our prime interest is in the sampling and use of visual information in the contr
 
 We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io/wiki){:target="_blank"} with some useful info about the lab set up, operating equipment and analysing data. At any one point the wiki is most likely out of date, but still quite useful for students doing eye tracking projects.
 
+## Find us
+
+- [Open Science Framework](https://osf.io/5awcm/){:target="_blank"} 
+- [Orcid](https://orcid.org/0000-0003-4656-0751){:target="_blank"}
+- [Google Scholar](http://scholar.google.com/citations?user=https://scholar.google.co.uk/citations?user=kyGMxeQAAAAJ&hl=en){:target="_blank"}
+
 ## People
 
 - Casimir Ludwig, Professor of Cognitive Science
-- Will Chapman, PhD
 - Michele Garibbo, PhD (co-supervisor with [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/){:target="_blank"} and [Nathan Lepora](https://lepora.com/){:target="_blank"})
-- Ilaria Constantini, PhD (co-supervisor with [Rebecca Pearson](https://www.mmu.ac.uk/hpsc/our-staff/browse/faculty/profile/index.php?id=5351){:target="_blank"})
+- Clara Kuper, visiting PhD from Humboldt University Berlin
+
 
 ### Alumni
 
+- Will Chapman (PhD)
+- [Ilaria Constantini](https://profiles.ucl.ac.uk/95058-ilaria-costantini){:target="_blank"} (PhD)
 - Rhys Davies (post-doc)
 - Lucy Ellis (graduate RA)
 - David Evens (graduate RA, PhD)
