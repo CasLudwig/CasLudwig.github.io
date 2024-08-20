@@ -13,13 +13,6 @@ We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io
 - [Orcid](https://orcid.org/0000-0003-4656-0751){:target="_blank"}
 - [Google Scholar](http://scholar.google.com/citations?user=https://scholar.google.co.uk/citations?user=kyGMxeQAAAAJ&hl=en){:target="_blank"}
 
-## People
-
-- Casimir Ludwig, Professor of Cognitive Science
-- Michele Garibbo, PhD (co-supervisor with [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/){:target="_blank"} and [Nathan Lepora](https://lepora.com/){:target="_blank"})
-- Clara Kuper, visiting PhD from Humboldt University Berlin
-
-
 ### Alumni
 
 - Will Chapman (PhD)
@@ -27,6 +20,7 @@ We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io
 - Rhys Davies (post-doc)
 - Lucy Ellis (graduate RA)
 - David Evens (graduate RA, PhD)
+- [Michele Garibbo](https://www.dpag.ox.ac.uk/team/michele-garibbo){:target="_blank"} (PhD)
 - Veronika Hadjipanayi (PhD)
 - [Qing Han](https://www.spi.ox.ac.uk/people/qing-han){:target="_blank"} (PhD)
 - [Tom Hardwicke](https://tomhardwicke.netlify.app/){:target="_blank"} (placement student)
@@ -41,5 +35,6 @@ We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io
 ### Visitors
 
 - [Jeff Orchard](https://cs.uwaterloo.ca/~jorchard/){:target="_blank"} (University of Waterloo)
+- [Clara Kuper](https://de.linkedin.com/in/clara-kuper-a539a7203/en){:target="_blank"} (Humboldt University Berlin)
 - [Guillermo Solovey](https://gsolovey.netlify.app/){:target="_blank"} (University of Buenos Aires)
 - [Emma Stewart](https://emmaemstewart.com/){:target="_blank"} (University of Giessen)
