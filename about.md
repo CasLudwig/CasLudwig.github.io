@@ -13,6 +13,13 @@ We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io
 - [Orcid](https://orcid.org/0000-0003-4656-0751){:target="_blank"}
 - [Google Scholar](https://scholar.google.co.uk/citations?user=zSgrHdsAAAAJ&hl=en){:target="_blank"}
 
+## People
+
+### Current
+- [Me](https://casludwig.github.io/)
+- [Georgina Keggin](https://www.qmul.ac.uk/sbbs/staff/georginakeggin.html) (PhD student at Queen Mary University of London; co-supervision with [Emma Stewart](https://emmaemstewart.com/))
+- Jiahao Zhao (CSC-funded PhD student; co-supervised with [Walterio Mayol-Cuevas](https://www.amazon.science/scholars/walterio-mayol-cuevas))
+
 ### Alumni
 
 - Will Chapman (PhD)
