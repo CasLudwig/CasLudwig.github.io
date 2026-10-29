@@ -19,7 +19,7 @@ As academics we get many "cold" queries from people looking to work with us, eit
 
 ---
 
-Thank you for your message and your interest in my research. I am very happy to talk with students who demonstrate a genuine interest in my work and whose background and skillset meshes well with what I do. However, I get a *lot* of these messages and their frequency only seems to increase since the advent of AI. As a result, I can no longer respond to each sender individually. Therefore, I apologise for sending an initial blanket response. The aim of this response is to assess to what extent your interest is genuine, and also to answer some common questions that you may have.
+Thank you for your message and your interest in my research. I am very happy to talk with students who demonstrate a genuine interest in my work and whose background and skillset mesh well with what I do. However, I get a *lot* of these messages and their frequency only seems to increase since the advent of AI. As a result, I can no longer respond to each sender individually. Therefore, I apologise for sending an initial blanket response. The aim of this response is to assess to what extent your interest is genuine, and also to answer some common questions that you may have.
 
 If your interest is genuine and our research interests really are a good match and the information provided below does not fully address any questions you might have, then please do respond and I am very happy to engage.
 
