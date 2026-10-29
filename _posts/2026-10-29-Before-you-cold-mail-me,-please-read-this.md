@@ -1,5 +1,5 @@
 ---
-title: "Before you cold-mail me"
+title: "Before you cold-mail me about positions in my lab, please read this..."
 layout: post
 date: 2026-10-29
 image: /assets/images/markdown.jpg
@@ -14,8 +14,6 @@ category: blog
 author: casludwig
 description: Answers to common queries
 ---
-
-## Before you cold-mail me about positions in my lab, please read this...
 
 As academics we get many "cold" queries from people looking to work with us, either on a voluntary basis, as a PhD student, or perhaps as a post-doc. With the advent of AI, the number of these queries have ballooned to the extent that I can no longer respond individually to each message. Therefore, I have crafted an initial default response that clarifies my position. 
 

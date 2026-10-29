@@ -18,7 +18,7 @@ description: Listing of any openings in the lab
 
 ## PhD opportunities
 
-## ESRC South-West Doctoral Training Programme
+### ESRC South-West Doctoral Training Programme
 
 We (the University of Bristol) are part of the [ESRC South-West Doctoral Training Partnership](https://www.swdtp.ac.uk/prospective-students-and-fellows/esrc-funded-studentships/). This is basically a pot of money from the Economic and Social Sciences Research Council that goes to a conglomerate of several (currently eight) universities in the region. I am listed as a potential supervisor in the subject area of 'Psychology' and on the pathway of 'Advanced quantitative methods'. 
 
