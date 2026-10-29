@@ -16,7 +16,6 @@ We try to maintain a [Lab wiki](https://github.com/CasLudwig/CasLudwig.github.io
 ## People
 
 ### Current
-- [Me](https://casludwig.github.io/)
 - [Georgina Keggin](https://www.qmul.ac.uk/sbbs/staff/georginakeggin.html) (PhD student at Queen Mary University of London; co-supervision with [Emma Stewart](https://emmaemstewart.com/))
 - Jiahao Zhao (CSC-funded PhD student; co-supervised with [Walterio Mayol-Cuevas](https://www.amazon.science/scholars/walterio-mayol-cuevas))
 
