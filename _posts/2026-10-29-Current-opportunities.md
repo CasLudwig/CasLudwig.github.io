@@ -6,8 +6,11 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - PhD
-- funding
+- post-doc
+- voluntary
+- opportunities
 - positions
+- funding
 category: blog
 author: casludwig
 description: Listing of any openings in the lab
